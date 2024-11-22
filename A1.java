@@ -1,7 +1,7 @@
 
 Assignment 1
 1. Write a Java program to change temperature from Celsius to Fahrenheit and vice versa. 
-/*import java.util.Scanner;
+import java.util.Scanner;
 public class A1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -10,7 +10,8 @@ public class A1 {
         double fahrenheit = (temp * 9/5) + 32;
         System.out.println("Temperature in Fahrenheit: " + fahrenheit);
         } 
-}*/
+}
+
 2. Write a Java Program to check if a number is Positive or Negative. 
 
 
