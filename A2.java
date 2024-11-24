@@ -1,3 +1,5 @@
+                                  Assignment – 2
+                                     
 1. Given are two one-dimensional arrays A & B, which are sorted in ascending order. Write 
    a Java program to merge them into single sorted array C that contains every item from 
    arrays A & B, in ascending order. 
